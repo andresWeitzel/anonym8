@@ -13,7 +13,7 @@
 
 Script requirements are:
 
--Tor        
+-Tor     
 -macchanger 
 -resolvconf 
 -dnsmasq    
